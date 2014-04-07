@@ -1,0 +1,20 @@
+{
+  "name": "nodejs_testing_example",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+   	"test": "mocha --recursive -R xunit test/script.js > test-reports.xml"
+   },
+  "dependencies": {
+    "express": "3.5.0",
+	"mocha": "1.18.2",
+	"supertest": "0.1.x",
+	"winston": "*",
+	"emailjs": "*",
+	"node-zip": "*",
+	"archiver": "*",
+	"nodemailer": "*",
+	"xunit-file": "*",
+    "jade": "*"
+  }
+}
