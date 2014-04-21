@@ -23,7 +23,7 @@ describe("Mocha Framework Tests", function() {
 																				logger.info('Test1: first test case started');
 																						var retval = sum(3,2);
 																								console.log("1. Test outcome " +retval);
-																										assert.equal(retval, "the sum is 5");
+																										assert.equal(retval, "the sum is ");
 																												done();
 																													});
 
