@@ -23,7 +23,7 @@ describe("Mocha Framework Tests", function() {
 																				logger.info('Test1: first test case started');
 																						var retval = sum(3,2);
 																								console.log("1. Test outcome " +retval);
-																										assert.equal(retval, "the sum is ");
+																										assert.equal(retval, "the sum is 5");
 																												done();
 																													});
 
@@ -63,7 +63,7 @@ describe("Mocha Framework Tests", function() {
 																																																																													logger.info('Sample Test: first test case started');
 																																																																															var retval = test1.display("round");
 																																																																																	console.log(retval);
-																																																																																			assert.equal(retval, "the earth is ");
+																																																																																			assert.equal(retval, "the earth is round");
 																																																																																					done();
 																																																																																						});
 
