@@ -8,15 +8,15 @@ describe("Mocha Framework Tests", function() {
 
 	before("before Test:", function(done) {
 			console.log("Common setup");
-					console.log("parse the topo file");
-							setup.setup();
-									done();
-										});
+			console.log("parse the topo file");
+			setup.setup();
+			done();
+	});
 
-											beforeEach("before each", function(done) {
-													console.log("Test Setup");
-															done();
-																});
+	beforeEach("before each", function(done) {
+	           console.log("Test Setup");
+				done();
+	});
 																//Test Cases	
 																    it("Test1", function(done) 
 																		{

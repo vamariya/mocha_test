@@ -40,3 +40,9 @@
 {"level":"info","message":"Test1: to check the sum value is 5","timestamp":"2014-04-01T12:27:43.089Z"}
 {"level":"info","message":"Test2: to check the earth is round","timestamp":"2014-04-01T12:27:43.090Z"}
 {"level":"info","message":"","timestamp":"2014-04-02T06:17:48.211Z"}
+{"level":"info","message":"Test1: first test case started","timestamp":"2014-04-22T05:33:52.176Z"}
+{"level":"info","message":"Test1: first test case started","timestamp":"2014-04-22T06:28:25.773Z"}
+{"level":"info","message":"Test2: second test case started","timestamp":"2014-04-22T06:28:25.781Z"}
+{"level":"info","message":"Test1: first test case started","timestamp":"2014-04-22T06:28:25.793Z"}
+{"level":"info","message":"Test2: second test case started","timestamp":"2014-04-22T06:28:25.796Z"}
+{"level":"info","message":"Sample Test: first test case started","timestamp":"2014-04-22T06:28:25.797Z"}
